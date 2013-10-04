@@ -2,7 +2,7 @@
 - ProjectName
 	- Classes
 		- Net
-		- Model
+		- Models
 		- Controllers
 		- Views
 		- Categories
