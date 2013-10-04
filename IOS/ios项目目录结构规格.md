@@ -1,13 +1,13 @@
 #IOS项目目录结构规格
 - ProjectName
 	- Classes
-		- Categories
-		- External
 		- Net
 		- Model
 		- Controllers
 		- Views
+		- Categories
+		- External
 	- Resources
-		- Fonts
 		- Images
+		- Fonts
 		- StoryBoard
