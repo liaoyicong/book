@@ -3,4 +3,11 @@
 	- Classes
 		- Categories
 		- External
-		
+		- Net
+		- Model
+		- Controllers
+		- Views
+	- Resources
+		- Fonts
+		- Images
+		- StoryBoard
